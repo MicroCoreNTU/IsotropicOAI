@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python train.py --jsn womac4X --prj IsoLambda/testingX/0 --models IsoMRIcleandis2 --nm 11 --netG edclean --n_epochs 2000 --lr_policy cosine --uprate 8 --lamb 3 --lambB 1 --nocyc --lr 0.00005 --nocut --skipl1 1 --l1how max --epoch_save 100 --env t09

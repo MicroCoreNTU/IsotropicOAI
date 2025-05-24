@@ -1,0 +1,6 @@
+{
+    "default": {
+        "LOGS": "/home/ubuntu/Data/logs/",
+        "DATASET": "/home/ubuntu/Data/Dataset/paired_images/"
+    }
+}
