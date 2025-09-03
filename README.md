@@ -120,11 +120,12 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 If you use this code for your research, please cite our paper:
 
 ```
-@article{IsoScopeX2025,
-  title={IsoScopeX: Deep Learning Framework for Isotropic Resolution Enhancement in Medical Imaging},
-  author={Your Name and Co-authors},
-  journal={Journal Name},
-  year={2025}
+@article{IsoScope,
+  title={Self-Supervised 3D Super-Resolution and Diffusion-Based Inpainting for Enhanced Abnormality Detection in Anisotropic Musculoskeletal MRI},
+  author={Pin-Hsun Lian, Jui-Yo Hsu, Tzu-Yi Chuang, Yi-Hwa Chen, Gary Han Chang., 2025.},
+  journal={Computerized Medical Imaging and Graphics},
+  year={2025},
+  note= {Under review}
 }
 ```
 
