@@ -111,11 +111,10 @@ Environment settings in the `env/env` file define paths to datasets and logs:
   }
 }
 ```
-## License
+### 
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Citation
+### Citation
 
 If you use this code for your research, please cite our paper:
 
@@ -129,4 +128,11 @@ If you use this code for your research, please cite our paper:
 }
 ```
 
+## Samples of Results (visualized with avivator by HIDIVELAB (https://hidivelab.org))
+
+https://avivator.gehlenborglab.org/?image_url=https://storage.googleapis.com/brc_data/oai.ome.tiff
+
+https://avivator.gehlenborglab.org/?image_url=https://storage.googleapis.com/brc_data/spine.ome.tiff
+
+https://avivator.gehlenborglab.org/?image_url=https://storage.googleapis.com/brc_data/dess.ome.tiff
 
